@@ -1,4 +1,4 @@
-module github.com/kserve/kserve
+module github.com/olegk-runai/kserve
 
 go 1.24.1
 
